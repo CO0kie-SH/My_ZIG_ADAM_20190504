@@ -16,7 +16,6 @@ import com.nle.mylibrary.forUse.zigbee.Zigbee;
 import com.nle.mylibrary.transfer.DataBusFactory;
 
 public class MainActivity extends AppCompatActivity {
-
     Zigbee zig;
     Modbus4150 adam;
     ToggleButton tgmen,tgfeng,tgdeng;
