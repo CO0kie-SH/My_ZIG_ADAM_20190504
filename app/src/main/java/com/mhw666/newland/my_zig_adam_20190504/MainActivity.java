@@ -46,7 +46,6 @@ public class MainActivity extends AppCompatActivity {
         imgren=findViewById(R.id.ivdoor);
         imgfeng=findViewById(R.id.ivfan);
         imgdeng=findViewById(R.id.ivalarm);
-
         tgmen.setOnCheckedChangeListener((compoundButton, b) -> {
             men=b;
             if(b){
